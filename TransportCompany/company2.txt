@@ -1,0 +1,17 @@
+Company: 
+Petrol
+Balance: 5000.0
+Drivers: 
+[Driver{name='Vanesa', qualification=Flammable, vehicleType=TankTruck, salary= 1200.0}
+, Driver{name='Petar', qualification=Flammable, vehicleType=TankTruck, salary= 810.0}
+]
+Vehicles: 
+[Vehicle{vehicleType=TankTruck, priceKm=1.52, km=1164.0, total=1770.0 , totalWeight=18300.0, startPoint='Tirana', endPoint='Budapest', dateDeparture=2022-01-09, dateArrival=2022-01-11 , driver=Vanesa , isDone=true}
+]
+Clients: 
+[Client{name='Moan', isPaid=true}
+, Client{name='Preslava', isPaid=false}
+]
+
+Number of completed courses: 1
+Pure profit : 4760.0

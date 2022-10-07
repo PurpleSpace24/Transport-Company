@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-04T10:06:43" hostname="DESKTOP-HLB5EU9" time="0.01">
+  <properties/>
+  <testcase name="testDriver()" classname="test" time="0.01"/>
+  <system-out><![CDATA[There is information
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

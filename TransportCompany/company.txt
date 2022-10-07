@@ -1,0 +1,22 @@
+Company: 
+DHL
+Balance: 3000.0
+Drivers: 
+[Driver{name='Ivan', qualification=SpecialGoods, vehicleType=Truck, salary= 869.0}
+, Driver{name='Petar', qualification=Flammable, vehicleType=TankTruck, salary= 810.0}
+, Driver{name='Angel', qualification=TransportPeople, vehicleType=Bus, salary= 1010.0}
+]
+Vehicles: 
+[Vehicle{vehicleType=Bus, priceKm=1.02, km=550.0, total=561.0 , totalWeight=0.0, startPoint='Sofia', endPoint='Burgas', dateDeparture=2021-12-30, dateArrival=2021-12-30 , driver=Angel , isDone=true}
+, Vehicle{vehicleType=TankTruck, priceKm=2.01, km=2342.0, total=4708.0 , totalWeight=12500.0, startPoint='Moscow', endPoint='Sarajevo', dateDeparture=2022-02-01, dateArrival=2022-02-05 , driver=Petar , isDone=false}
+, Vehicle{vehicleType=Truck, priceKm=0.67, km=823.0, total=552.0 , totalWeight=15850.0, startPoint='Varna', endPoint='Podgorica', dateDeparture=2022-01-02, dateArrival=2022-01-03 , driver=Ivan , isDone=true}
+]
+Clients: 
+[Client{name='Ivan', isPaid=false}
+, Client{name='Moan', isPaid=true}
+, Client{name='Ivana', isPaid=true}
+, Client{name='Preslava', isPaid=false}
+]
+
+Number of completed courses: 2
+Pure profit : 1424.0

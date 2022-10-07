@@ -1,0 +1,23 @@
+Company: 
+World Travelling
+Balance: 5000.0
+Drivers: 
+[Driver{name='Ivan', qualification=SpecialGoods, vehicleType=Truck, salary= 869.0}
+, Driver{name='Petar', qualification=Flammable, vehicleType=TankTruck, salary= 810.0}
+, Driver{name='Angel', qualification=TransportPeople, vehicleType=Bus, salary= 1010.0}
+, Driver{name='Martin', qualification=TransportPeople, vehicleType=Bus, salary= 1200.0}
+, Driver{name='Vanesa', qualification=Flammable, vehicleType=TankTruck, salary= 1200.0}
+, Driver{name='Mark', qualification=SpecialGoods, vehicleType=Truck, salary= 999.0}
+]
+Vehicles: 
+[Vehicle{vehicleType=Truck, priceKm=0.98, km=340.0, total=334.0 , totalWeight=20000.0, startPoint='Plovdiv', endPoint='Athens', dateDeparture=2022-01-03, dateArrival=2022-01-03 , driver=Mark , isDone=true}
+, Vehicle{vehicleType=Bus, priceKm=3.01, km=1476.0, total=4443.0 , totalWeight=0.0, startPoint='Vienna', endPoint='Burgas', dateDeparture=2022-01-10, dateArrival=2022-01-12 , driver=Martin , isDone=false}
+]
+Clients: 
+[Client{name='Anelia', isPaid=false}
+, Client{name='Ivana', isPaid=true}
+, Client{name='Moan', isPaid=true}
+]
+
+Number of completed courses: 1
+Pure profit : -754.0
